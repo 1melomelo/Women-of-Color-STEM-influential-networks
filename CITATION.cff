@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Yap"
+  given-names: "Melo-Jean"
+  orcid: "https://orcid.org/0000-0000-0000-0000"
+title: "Women-of-Color-STEM-influential-networks"
+version: 1.0.0
+doi: 10.5281/zenodo.1234
+date-released: 2022-03-18
+url: "https://github.com/1melomelo/Women-of-Color-STEM-influential-networks"
